@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Mahesh Sharma</h1>
+     <img src ="https://www.google.com/search?q=mahesh+babu&sxsrf=AOaemvKC-s5R_QM5UvsRfWiWcutWpOpz3g:1642658700087&tbm=isch&source=iu&ictx=1&vet=1&fir=33idSw3N8K2-UM%252CBwsntrw-BWWY5M%252C%252Fm%252F07t5b3%253BaLiEJbKwuDHnHM%252CEX7DCfP4rtmOVM%252C_%253BPREIf3452ySRcM%252CRH_0W94YTzsgBM%252C_%253BNL_rq28Y7ZZcmM%252CvMF-_jAorpRdgM%252C_%253BoMYTaFQfrcZLdM%252CflXJyNSMb00NXM%252C_%253B4LNilYJH7OHtgM%252Cp-IaauR-N_NvBM%252C_%253Btc5ybvdG-gzL6M%252CzES0Ac-uzHd6nM%252C_&usg=AI4_-kSCyfk9kBNj2wHg8ainxxWryYGDTA&sa=X&ved=2ahUKEwiHz7jC1L_1AhWRTWwGHbYkCYYQ_B16BAgzEAE#imgrc=33idSw3N8K2-UM" width="200px" height="200px" > </img>
+        <a href="https://www.linkedin.com/in/shivani-shrivastava-a99383229/">visit my linkedin profile!</a>
+        <section>
+          <h2 id="skills">for software skill I know basic C and Java</h2>
+          <h3 id="projects">
+              <ul>
+                  <li>w</li>
+                  <li>x</li>
+                  <li>y</li>
+                  <li>z</li>
+                  </ul>
+          </h3>
+           </section> 
+   </body>
+</html>
